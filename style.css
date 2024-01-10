@@ -90,11 +90,10 @@ left: 100%;
 footer{
     background-color: #111;
     margin-top: auto;
-    max-height: 150px;
 }
 .footer_container{
     width: 100%;
-    
+    padding:10px 10px 10px
 }
 .social_icons{
     display: flex;
